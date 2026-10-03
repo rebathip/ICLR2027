@@ -17,27 +17,5 @@ The repository contains four main experimental notebooks:
 | Regression | VGG16 | `regression_VGG16.ipynb` |
 | Regression | ResNet18 | `regression_ResNet18_clean.ipynb` |
 
-## Classification Experiments
 
-The classification experiments are performed on the Fashion-MNIST dataset.
 
-The corresponding notebooks are:
-
-```text
-classification_VGG16.ipynb
-classification_ResNet18.ipynb
-
-## Regression Experiments
-
-The regression experiments evaluate the proposed Sign Entropy guided attenuation method on the **UTKFace age estimation task**.
-
-Two backbone architectures are evaluated:
-
-- VGG16
-- ResNet18
-
-The corresponding notebooks are:
-
-```text
-regression_VGG16.ipynb
-regression_ResNet18_clean.ipynb
